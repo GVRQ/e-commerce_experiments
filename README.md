@@ -38,4 +38,4 @@ RFM segmentation is a great method to identify groups of customers for special t
 - RFM Segmentation (Scores and Labeling)
 - CLV + RFM analysis
 - Crosstab Results & Recommendations (marketing tips on targeting specific clusters of customers)
-- Number of Customers and amount of CLV (3 months) in the Risk groups
+- Revenue at risk: Number of Customers and amount of CLV (3 months) in the Risk groups.
